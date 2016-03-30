@@ -60,6 +60,7 @@ public class Main {
 				else
 				{
 					System.out.println(" 	"+corScore + " was closest at "+index);
+					//put in centerX[index] here instead of corScore
 					ave.xIn(corScore);
 				}
 			}

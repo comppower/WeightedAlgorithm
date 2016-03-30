@@ -55,6 +55,7 @@ public class WeightedAverage {
 		return area.length;
 	}
 	//averages the array return the filtered value
+	//h
 	public double getAverage(String val)
 	{
 		double average =0;
